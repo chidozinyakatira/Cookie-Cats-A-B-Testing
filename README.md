@@ -51,11 +51,10 @@ Cookie Cats is a puzzle game that places "gates" which make players wait (or pay
 - Run a 30-day retention follow-up.
 
 ## Repository contents
-
-- `Cookie_Cats_AB_Test.ipynb`: the full analysis, with explanations and charts.
-- `Cookie_Cats_AB_Test_Recommendation.docx`: the one-page recommendation.
-- `requirements.txt`: Python dependencies.
-
+- [Cookie_Cats_AB_Test.ipynb](Cookie_Cats_AB_Test.ipynb): the full analysis, with explanations and charts.
+- [Cookie_Cats_AB_Test_Recommendation.docx](Cookie_Cats_AB_Test_Recommendation.docx): the one-page recommendation.
+- [requirements.txt](requirements.txt): Python dependencies.
+- 
 ## How to run
 
 1. Download the dataset (search "Mobile Games A/B Testing - Cookie Cats" on Kaggle) and save it as `cookie_cats.csv` in the same folder as the notebook.
